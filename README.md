@@ -1,2 +1,2 @@
-# Dat350-NMBU2023
-A place to upload the code for my Dat350 schoolwork
+# Schoolwork at NMBU
+This is a place i will upload some of my schoolwork during my studies
